@@ -1,2 +1,2 @@
 # SPOJ-Problems
-This repo contains all the solutions of the questions I have tried.
+This repo contains all the solutions to the questions I have tried.
